@@ -27,7 +27,8 @@ This project classifies customer support tickets using Machine Learning and NLP.
 HomePage <img width="1876" height="911" alt="image" src="https://github.com/user-attachments/assets/63247724-c681-406e-81a3-e2e8aa64221f" />
 HomePage with dataset upload<img width="853" height="808" alt="image" src="https://github.com/user-attachments/assets/99ddf5ce-3a22-40f3-837e-14c7f02c76cf" />
 
-Analyzed New tickets with AI response <img width="867" height="836" alt="image" src="https://github.com/user-attachments/assets/cfe5771a-f1e3-4831-82fc-4e0f20c1607f" />
+Analyzed New tickets with AI response
+<img width="867" height="836" alt="image" src="https://github.com/user-attachments/assets/cfe5771a-f1e3-4831-82fc-4e0f20c1607f" />
 
 Dashboard <img width="748" height="797" alt="image" src="https://github.com/user-attachments/assets/e16f18ab-593d-4e11-ae79-52087b63b2c4" />
 

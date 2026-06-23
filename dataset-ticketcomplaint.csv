@@ -1,0 +1,101 @@
+﻿,ticket,category
+0,complaint regarding service,Complaint
+1,need more information,General Inquiry
+2,website not loading,Technical
+3,unhappy with support,Complaint
+4,account access issue,Account
+5,how does product work,General Inquiry
+6,product details,General Inquiry
+7,very disappointed,Complaint
+8,account locked,Account
+9,very disappointed,Complaint
+10,account access issue,Account
+11,reset password request,Account
+12,very disappointed,Complaint
+13,unhappy with support,Complaint
+14,application crashed,Technical
+15,bad support experience,Complaint
+16,server error,Technical
+17,very disappointed,Complaint
+18,poor service,Complaint
+19,website not loading,Technical
+20,subscription charged twice,Billing
+21,available plans,General Inquiry
+22,login page not working,Technical
+23,unable to login,Account
+24,server error,Technical
+25,payment failed,Billing
+26,complaint regarding service,Complaint
+27,available plans,General Inquiry
+28,account access issue,Account
+29,very disappointed,Complaint
+30,forgot password,Account
+31,double payment deducted,Billing
+32,account access issue,Account
+33,pricing information,General Inquiry
+34,payment failed,Billing
+35,server error,Technical
+36,need more information,General Inquiry
+37,need more information,General Inquiry
+38,very disappointed,Complaint
+39,account locked,Account
+40,login page not working,Technical
+41,reset password request,Account
+42,slow performance,Technical
+43,forgot password,Account
+44,complaint regarding service,Complaint
+45,account access issue,Account
+46,subscription charged twice,Billing
+47,account locked,Account
+48,poor service,Complaint
+49,account locked,Account
+50,payment failed,Billing
+51,forgot password,Account
+52,poor service,Complaint
+53,double payment deducted,Billing
+54,slow performance,Technical
+55,how does product work,General Inquiry
+56,website not loading,Technical
+57,unhappy with support,Complaint
+58,billing issue,Billing
+59,server error,Technical
+60,need more information,General Inquiry
+61,double payment deducted,Billing
+62,application crashed,Technical
+63,need more information,General Inquiry
+64,login page not working,Technical
+65,reset password request,Account
+66,pricing information,General Inquiry
+67,application crashed,Technical
+68,billing issue,Billing
+69,unhappy with support,Complaint
+70,unhappy with support,Complaint
+71,account access issue,Account
+72,how does product work,General Inquiry
+73,bad support experience,Complaint
+74,need more information,General Inquiry
+75,billing issue,Billing
+76,pricing information,General Inquiry
+77,available plans,General Inquiry
+78,how does product work,General Inquiry
+79,refund not received,Billing
+80,website not loading,Technical
+81,payment failed,Billing
+82,refund not received,Billing
+83,slow performance,Technical
+84,how does product work,General Inquiry
+85,subscription charged twice,Billing
+86,subscription charged twice,Billing
+87,payment failed,Billing
+88,how does product work,General Inquiry
+89,very disappointed,Complaint
+90,pricing information,General Inquiry
+91,double payment deducted,Billing
+92,poor service,Complaint
+93,refund not received,Billing
+94,billing issue,Billing
+95,payment failed,Billing
+96,unable to login,Account
+97,pricing information,General Inquiry
+98,forgot password,Account
+99,slow performance,Technical
